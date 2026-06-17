@@ -1,0 +1,16 @@
+
+📦 tpi_paises
+ ┣ 📂 funciones
+ ┃ ┣ 📜 __init__.py        
+ ┃ ┣ 📜 datos.py     
+ ┃ ┣ 📜 altas.py          
+ ┃ ┣ 📜 actualizar.py      
+ ┃ ┣ 📜 busquedas.py          
+ ┃ ┣ 📜 filtros.py
+ ┃ ┣ 📜 ordenamiento.py
+ ┃ ┣ 📜 estadisticas.py
+ ┣ 📜 main.py          
+ ┣ 📜 paises.csv             
+ ┣ 📜 README.md 
+
+
