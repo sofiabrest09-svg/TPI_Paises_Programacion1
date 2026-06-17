@@ -98,7 +98,7 @@ Países por continente:
 ## Links
 
 - 📹 Video demostración: (link)
-- 📄 Documentación PDF: (link)
+- 📄 Documentación PDF: (https://github.com/sofiabrest09-svg/TPI_Paises_Programacion1/blob/main/tpi_paises/tpi-paises-brest-nieva.pdf)
 
 
 
